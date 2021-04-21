@@ -30,5 +30,14 @@
     <ClCompile Include="结构体案例1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="点和圆位置关系.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
