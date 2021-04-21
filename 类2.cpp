@@ -28,6 +28,7 @@ int main()
 	s2.n_name = ("ÀîËÄ");
 	s2.n_id = 2;
 	s1.showStudent();
+	s2.showStudent();
 	system("pause");
 	return 0;
 }
