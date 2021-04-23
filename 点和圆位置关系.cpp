@@ -74,10 +74,11 @@ int main()
 		Circle c;
 		Point p;
 		Point p1;
+
 		int r;
 		cout << "ÇëÊäÈëÔ²µÄ°ë¾¶" << endl;
 		cin >> r;
-		c.setR(r);
+		c.setR(r); 
 		int x1, y1;
 		cout << "ÇëÊäÈëÔ²ÐÄx y×ø±ê" << endl;
 		cin >> x1 >> y1;
