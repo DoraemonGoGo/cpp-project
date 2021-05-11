@@ -48,5 +48,11 @@
     <ClCompile Include="二分法.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="列主元法求解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
