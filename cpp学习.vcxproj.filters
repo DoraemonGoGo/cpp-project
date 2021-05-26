@@ -60,5 +60,8 @@
     <ClCompile Include="Doolittle分解法求解.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="赛德尔迭代法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
