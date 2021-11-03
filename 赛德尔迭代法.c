@@ -55,7 +55,7 @@ int main()
     }
     int t = 0;
     do
-    { 
+    {
         t++;
         for (int i = 0; i < NUM; i++)
             X[i] = Y[i];

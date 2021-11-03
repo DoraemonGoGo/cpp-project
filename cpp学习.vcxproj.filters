@@ -63,5 +63,17 @@
     <ClCompile Include="赛德尔迭代法.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最小值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="题2(可重复).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
