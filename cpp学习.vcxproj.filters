@@ -135,5 +135,11 @@
     <ClCompile Include="P44.4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P45.5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P46.7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
