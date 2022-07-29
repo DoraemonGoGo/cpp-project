@@ -123,5 +123,11 @@
     <ClCompile Include="P42.2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Lisk.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P42.2(2).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
