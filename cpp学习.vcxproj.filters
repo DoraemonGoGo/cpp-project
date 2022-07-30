@@ -144,5 +144,17 @@
     <ClCompile Include="Lisk3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P48.8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P48.9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P50.11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P51.12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
