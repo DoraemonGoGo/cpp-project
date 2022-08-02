@@ -14,7 +14,7 @@ int main()
 	for (int i = 0; i < pow(2, n); i++)
 	{
 		int count = 0;
-		for (int i = 0; i < n - 1; i++)//整理二进制数组，够2的进位 
+		for (int i = 0; i < n - 1; i++)//整理二进制数组，够2的进位
 		{
 			a[i + 1] += a[i] / 2;
 			a[i] = a[i] % 2;
@@ -33,10 +33,10 @@ int main()
 				if (a[i] == 1)
 				{
 					if (flag == 1)
-					printf(",");
-					printf("%d", i+1);
+						printf(",");
+					printf("%d", i + 1);
 					flag = 1;
-				}	
+				}
 			}
 			printf("}\n");
 		}
