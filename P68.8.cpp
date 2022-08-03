@@ -4,7 +4,7 @@ int main()
 {
 	int a, b;
 	char str[40];
-	while (scanf_s("%d%s%d", &a, str, 40, &b) != EOF)
+	while (scanf_s("%d%s%d", &a, str, 40, &b) != EOF)//a为n的进制数，n为这个数，b为幺转换的进制数
 	{
 		int temp = 0, len = strlen(str), c = 1;
 		for (int i = len - 1; i >= 0; i--)
