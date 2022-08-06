@@ -222,5 +222,11 @@
     <ClCompile Include="P87.12.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P88.13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P89.14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
