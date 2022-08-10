@@ -267,5 +267,14 @@
     <ClCompile Include="P104.13.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P106.14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P108.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P110.3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
