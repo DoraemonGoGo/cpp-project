@@ -1,6 +1,6 @@
 #include<stdio.h>
 int a[100];
-/*int fun(int a[], int n)
+int fun(int a[], int n)
 {
 	int i, j = 0, b[100], t;
 	for (int m = 0; m < 100; m++)
@@ -24,8 +24,8 @@ int a[100];
 			t = b[k];
 	}
 	return t;
-}*/
-int fun(int a[], int n)
+}
+/*int fun(int a[], int n)
 {
 	int length = 1, counter = 1;
 	int p = a[0];
@@ -42,10 +42,10 @@ int fun(int a[], int n)
 		}
 	}
 	return length;
-}
+}*/
 int main()
 {
-	int n;
+	int n, b = 0, c = 1;
 	printf("请输入数组的长度:\n");
 	scanf_s("%d", &n);
 	printf("请输入数组:\n");
