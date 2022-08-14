@@ -19,7 +19,7 @@ int main()
 		t = pow(x, i) / fun(i);
 		sum = sum + sign * t;
 		sign = -sign;
-		i++;
+		i += 2;
 	}
 	printf("sin%d的近似值为：%llf\n", x, sum);
 	return 0;
