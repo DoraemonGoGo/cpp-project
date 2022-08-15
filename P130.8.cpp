@@ -9,9 +9,10 @@ int fun(int n)
 }
 int main()
 {
-	int i = 1, x;
+	double x;
+	int i = 1;
 	printf("请输入x：\n");
-	scanf_s("%ld", &x);
+	scanf_s("%lf", &x);
 	double sum = 0.0, t = x;
 	int sign = 1;
 	while (t > 0.00005)
@@ -21,6 +22,6 @@ int main()
 		sign = -sign;
 		i += 2;
 	}
-	printf("sin%d的近似值为：%llf\n", x, sum);
+	printf("sin%lf的近似值为：%lf\n", x, sum);
 	return 0;
 }
