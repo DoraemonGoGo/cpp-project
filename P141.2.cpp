@@ -32,7 +32,7 @@ int main()
 		}
 	}
 	printf("最小距离为:\n");
-	printf("%f\n", min);
+	printf("%f\n", sqrt(min));
 	printf("对应的点为：\n");
 	printf("%f %f\n", p[s].x, p[s].y);
 	printf("%f %f", p[t].x, p[t].y);
